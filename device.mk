@@ -256,6 +256,7 @@ PRODUCT_PACKAGES += \
     TelephonyOverlayOnyx \
     FrameworkOverlayOnyx \
     FrameworkOverlayOnyxGL \
+    LineageSDKOverlayOnyx \
     LineageSettingsOverlayOnyx \
     SettingsOverlayOnyx \
     SettingsProviderOverlayOnyx \
