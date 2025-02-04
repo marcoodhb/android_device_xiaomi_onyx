@@ -127,6 +127,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.drm-service.clearkey
 
+# Dolby
+PRODUCT_PACKAGES += \
+    XiaomiDolby
+
 # Fastbootd
 PRODUCT_PACKAGES += \
     fastbootd
