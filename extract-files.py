@@ -95,6 +95,19 @@ blob_fixups: blob_fixups_user_type = {
     ),
 
     (
+        'odm/lib64/libaudioroute_ext.so',
+        'vendor/lib64/libagm.so',
+        'vendor/lib64/libar-pal.so',
+        'vendor/lib64/libmcs.so',
+        'vendor/lib64/libmikaraoke.so',
+        'vendor/lib64/libtiantongpal.so',
+    ): blob_fixup()
+        .replace_needed(
+            'libaudioroute.so',
+            'libaudioroute-v34.so'
+    ),
+
+    (
         'odm/bin/hw/vendor.xiaomi.hw.touchfeature-service',
         'odm/lib64/hw/displayfeature.default.so',
         'odm/lib64/libadaptivehdr.so',
