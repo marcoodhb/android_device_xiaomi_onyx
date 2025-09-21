@@ -2727,6 +2727,7 @@ vendor/bin/hw/android.hardware.security.keymint-service-qti
 vendor/etc/hal_uuid_map_onyx.xml
 vendor/etc/init/android.hardware.security.keymint-service-qti.rc
 vendor/etc/vintf/manifest/android.hardware.security.keymint-service-qti.xml
+vendor/lib64/android.hardware.security.keymint-V3-ndk.so:vendor/lib64/android.hardware.security.keymint-V3-ndk_prebuilt.so;FIX_SONAME
 vendor/lib64/libcppbor_external.so:vendor/lib64/libcppbor_onyx.so;FIX_SONAME
 vendor/lib64/libkeymasterdeviceutils.so
 vendor/lib64/libkeymasterprovision.so
