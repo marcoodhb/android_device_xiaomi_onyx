@@ -208,7 +208,6 @@ odm/etc/backend_conf_sia.xml
 odm/etc/sixth_wrapper_cfg.xml
 odm/etc/usecaseKvManager.xml
 vendor/etc/Hapticsconfig.xml
-vendor/etc/a2dp_audio_policy_configuration.xml
 vendor/etc/audio/sku_tuna/audio_effects_config.xml
 vendor/etc/audio/sku_tuna/quasar_config.xml
 vendor/etc/audio/vendor_audio_interfaces.xml
@@ -223,8 +222,6 @@ vendor/etc/default_volume_tables.xml
 vendor/etc/kvh2xml.xml
 vendor/etc/microphone_characteristics.xml
 vendor/etc/r_submix_audio_policy_configuration.xml
-vendor/etc/stub_audio_policy_configuration.xml
-vendor/etc/usb_audio_policy_configuration.xml
 vendor/etc/usecaseKvManager.xml
 
 # Audio firmware
