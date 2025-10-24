@@ -35,13 +35,6 @@
         </interface>
     </hal>
     <hal format="aidl" optional="true">
-        <name>com.android.ozoaudio.notify</name>
-        <interface>
-            <name>IOzoNotify</name>
-            <instance>default</instance>
-        </interface>
-    </hal>
-    <hal format="aidl" optional="true">
         <name>vendor.dolby.dms</name>
         <interface>
             <name>IDms</name>
