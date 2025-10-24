@@ -203,7 +203,6 @@ odm/etc/backend_conf.xml
 odm/etc/backend_conf_sia.xml
 odm/etc/sixth_wrapper_cfg.xml
 odm/etc/usecaseKvManager.xml
-vendor/etc/audio/sku_tuna/audio_effects_config.xml
 vendor/etc/audio_diag.cfg
 vendor/etc/card-defs.xml
 vendor/etc/kvh2xml.xml
