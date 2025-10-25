@@ -697,7 +697,7 @@ on property:sys.boot_completed=1
     wait /sys/class/thermal/thermal_message/boot_complete
     write /sys/class/thermal/thermal_message/boot_complete 2
 
-service vendor.sensors-hal-multihal /vendor/bin/hw/android.hardware.sensors-service.multihal
+service vendor.sensors-hal-multihal /vendor/bin/hw/android.hardware.sensors-service.xiaomi-multihal
     override
     class hal
     user system
