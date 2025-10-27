@@ -242,6 +242,7 @@ PRODUCT_COPY_FILES += \
 
 # Overlays
 PRODUCT_PACKAGES += \
+    ApertureOverlayOnyx \
     CarrierConfigOverlayOnyx \
     SystemUIOverlayOnyx \
     TelephonyOverlayOnyx \
