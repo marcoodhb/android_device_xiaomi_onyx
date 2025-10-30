@@ -26,19 +26,6 @@ attribute dvs_aidl;
 attribute hal_aidl_dms_client;
 attribute hal_aidl_dms_server;
 
-# HypSys
-attribute hal_misys_vendor;
-attribute hal_misys_vendor_client;
-attribute hal_misys_vendor_server;
-
-attribute hal_misyscore;
-attribute hal_misyscore_server;
-attribute hal_misyscore_client;
-
-attribute hypsys_ssi;
-attribute hypsys_ssi_server;
-attribute hypsys_ssi_client;
-
 # Mlipay
 attribute hal_mlipay;
 attribute hal_mlipay_server;

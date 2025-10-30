@@ -82,10 +82,6 @@
 /mnt/vendor/persist/goodix(/.*)? u:object_r:fingerprint_vendor_data_file:s0
 /vendor/bin/hw/android\.hardware\.biometrics\.fingerprint-service\.xiaomi u:object_r:hal_fingerprint_default_exec:s0
 
-# Hypsys
-/(vendor|system/vendor)/bin/hypsys_vendor u:object_r:hal_misys_vendor_default_exec:s0
-/vendor/bin/hw/vendor.xiaomi.hardware.misys.core-service u:object_r:hal_misyscore_default_exec:s0
-
 # IR
 /dev/ir_spi u:object_r:ir_spi_device:s0
 
