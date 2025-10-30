@@ -90,13 +90,6 @@ blob_fixups: blob_fixups_user_type = {
         .regex_replace('xml=version', 'xml version'),
 
     (
-        'odm/etc/init/vendor.xiaomi.hw.touchfeature-service.rc',
-        'vendor/etc/init/hw/init.mi_thermald.rc',
-        'vendor/etc/init/hw/init.batterysecret.rc',
-    ): blob_fixup()
-        .regex_replace('seclabel.*?s0', ''),
-
-    (
         'odm/bin/hw/android.hardware.security.keymint-service.strongbox-nxp',
         'odm/lib64/libjc_keymint-nxp.so',
         'odm/lib64/libjc_keymint_transport_nxp.so',
