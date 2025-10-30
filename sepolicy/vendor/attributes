@@ -1,0 +1,55 @@
+# Camera
+attribute vendor_hal_misensor_camera;
+attribute vendor_hal_misensor_camera_client;
+attribute vendor_hal_misensor_camera_server;
+
+attribute hal_quickcamera;
+attribute hal_quickcamera_client;
+attribute hal_quickcamera_server;
+
+# Citsensor
+attribute vendor_hal_citsensorservice_xiaomi;
+attribute vendor_hal_citsensorservice_xiaomi_client;
+attribute vendor_hal_citsensorservice_xiaomi_server;
+
+# Displayfeature
+attribute vendor_hal_displayfeature_xiaomi;
+attribute vendor_hal_displayfeature_xiaomi_server;
+attribute vendor_hal_displayfeature_xiaomi_client;
+
+# Dolby
+attribute hal_aidl_dms;
+attribute dvs_aidl_client;
+attribute dvs_aidl_server;
+
+attribute dvs_aidl;
+attribute hal_aidl_dms_client;
+attribute hal_aidl_dms_server;
+
+# HypSys
+attribute hal_misys_vendor;
+attribute hal_misys_vendor_client;
+attribute hal_misys_vendor_server;
+
+attribute hal_misyscore;
+attribute hal_misyscore_server;
+attribute hal_misyscore_client;
+
+attribute hypsys_ssi;
+attribute hypsys_ssi_server;
+attribute hypsys_ssi_client;
+
+# Mlipay
+attribute hal_mlipay;
+attribute hal_mlipay_server;
+attribute hal_mlipay_client;
+
+# Micharge
+attribute hal_micharge;
+attribute hal_micharge_server;
+attribute hal_micharge_client;
+
+# Touchfeature
+attribute hal_touchfeature_xiaomi;
+attribute hal_touchfeature_xiaomi_client;
+attribute hal_touchfeature_xiaomi_server;
