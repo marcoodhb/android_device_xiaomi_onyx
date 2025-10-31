@@ -236,6 +236,7 @@ ro.config.media_vol_steps=15
 ro.config.system_vol_steps=15
 ro.config.vc_call_vol_steps=11
 ro.mediaserver.64b.enable=true
+vendor.media.omx=0
 
 # Mitee
 vendor.mseccam.auto.start=false
