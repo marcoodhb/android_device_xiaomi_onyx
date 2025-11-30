@@ -13,7 +13,7 @@ $(call inherit-product, vendor/custom/config/common_full_phone.mk)
 # Inherit from onyx device
 $(call inherit-product, device/xiaomi/onyx/device.mk)
 
-PRODUCT_NAME := lineage_onyx
+PRODUCT_NAME := custom_onyx
 PRODUCT_DEVICE := onyx
 PRODUCT_MANUFACTURER := Xiaomi
 PRODUCT_BRAND := POCO
